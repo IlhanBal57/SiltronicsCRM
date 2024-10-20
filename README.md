@@ -26,3 +26,5 @@ deploying the platform to production for real-world use.
 ![s4](https://github.com/user-attachments/assets/bd5956d2-a757-4877-8fd7-e320998d7512)
 ![s3](https://github.com/user-attachments/assets/5352946d-36c9-43f6-9d1c-44b4c33bf6c1)
 ![s6](https://github.com/user-attachments/assets/cfae5d00-b164-4e1b-a51c-a25201562bbd)
+
+** HTML , CSS , JAVASCRIPT , PHP , MYSQL , BOOTSTRAP etc..
