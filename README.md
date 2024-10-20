@@ -24,6 +24,8 @@ deploying the platform to production for real-world use.
 ![s2](https://github.com/user-attachments/assets/8a20d6ff-fee6-4436-945e-9cbe07d3bac5)
 ![s1](https://github.com/user-attachments/assets/1cc443c4-a0dc-4c70-a6d9-dffe01a9a6f6)
 ![s4](https://github.com/user-attachments/assets/bd5956d2-a757-4877-8fd7-e320998d7512)
+![s8](https://github.com/user-attachments/assets/22c10f94-eefb-40e6-9895-c3ea01e57df2)
+![s7](https://github.com/user-attachments/assets/926521ee-71d6-4e66-a87c-f2f191a5af8b)
 ![s3](https://github.com/user-attachments/assets/5352946d-36c9-43f6-9d1c-44b4c33bf6c1)
 ![s6](https://github.com/user-attachments/assets/cfae5d00-b164-4e1b-a51c-a25201562bbd)
 
