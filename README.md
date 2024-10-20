@@ -1,4 +1,4 @@
-# SiltronicsCRM
+# Siltronics CRM
 
 During my internship, I developed a full-stack web application for a company called Silter, designed to
 streamline all business operations within a single platform (www.siltronics.net)
